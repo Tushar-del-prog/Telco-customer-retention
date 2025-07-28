@@ -62,3 +62,27 @@ Understanding why customers churn helps telecom companies improve customer reten
 - Pandas, Matplotlib, Seaborn
 - Scikit-learn / TensorFlow / Keras
 - Google Colab
+
+- ##  Machine Learning Steps
+
+1. **Data Cleaning & Preprocessing**
+   - Handling missing values
+   - Encoding categorical features
+
+2. **EDA (Exploratory Data Analysis)**
+   - Distribution plots
+   - Correlation heatmaps
+
+3. **Model Building**
+   - Train-Test Split
+   - Logistic Regression, Random Forest, etc.
+   
+4. **Evaluation**
+   - Accuracy Score
+   - Classification Report
+
+
+
+✅ Accuracy Achieved
+
+✅ Final Model Accuracy: 81%
